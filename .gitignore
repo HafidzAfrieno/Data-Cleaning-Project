@@ -1,0 +1,7 @@
+# mengabaikan folder tertentu
+/data bersih
+/data kotor
+
+# mengabaikan ekxtensi file
+*.csv
+*.xlsx
